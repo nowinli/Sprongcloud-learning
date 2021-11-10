@@ -1,0 +1,3 @@
+org\example\eureka\server\EurekaServerApplication.class
+org\example\eureka\server\SpringBootWebSecurityConfiguration$DefaultConfigurerAdapter.class
+org\example\eureka\server\SpringBootWebSecurityConfiguration.class
